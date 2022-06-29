@@ -4,9 +4,9 @@ import ContactComponent from "../pure/Contact";
 
 const ContactList = () => {
     const defaultContacts = new Contact(
-        "name 1",
-        "lastname 1",
-        "mail1@mail.com",
+        "Fede",
+        "Godoy",
+        "fede@mail.com",
         false
     );
 
